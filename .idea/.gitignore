@@ -2,7 +2,7 @@
 /shelf/
 /workspace.xml
 .idea/
-!.idea/modules.xml
-!.idea/vcs.xml
-!.idea/runConfigurations/
-!.idea/*.iml
+modules.xml
+vcs.xml
+runConfigurations/
+*.iml
