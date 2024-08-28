@@ -38,3 +38,74 @@ build/
 *~
 *.bak
 *.tmp
+
+
+
+
+# Coisas específicas do usuário:
+.ideia / ** / espaço de trabalho.xml
+.ideia / ** / tarefas.xml
+.ideia / dicionários
+
+# Arquivos sensíveis ou de alta rotatividade:
+.idea / ** / fontes de dados /
+.ideia / ** / dataSources.ids
+.ideia / ** / dataSources.xml
+.ideia / ** / dataSources.local.xml
+.ideia / ** / sqlDataSources.xml
+.ideia / ** / dinâmico.xml
+.ideia / ** / uiDesigner.xml
+
+# Gradle:
+.ideia / ** / gradle.xml
+.idea / ** / bibliotecas
+
+# CMake
+cmake-build-debug /
+
+# Plug-in Mongo Explorer:
+.ideia / ** / mongoSettings.xml
+
+# # Formato de projeto baseado em arquivo:
+* .iws
+
+# # Arquivos específicos do plugin:
+
+#IntelliJ​
+/ fora /
+
+# plugin mpeltonen/sbt-idea
+.ideia_módulos /
+
+# Plug-in JIRA
+atlassian-ide-plugin.xml
+
+# Plugin Clojure cursivo
+.ideia / replstate.xml
+
+# Plugin Ruby e RubyMine
+/ .rakeTarefas
+
+# Plugin Crashlytics (para Android Studio e IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.propriedades
+crashlytics-build.propriedades
+fabric.propriedades
+
+
+.iml
+módulos.xml
+.ideia/misc.xml
+*.ipr
+
+# Plug-in Sonarlint
+.ideia / sonarlint
+
+
+.ideia /
+
+* .iml
+módulos.xml
+.ideia / misc.xml
+* .ipr
+
