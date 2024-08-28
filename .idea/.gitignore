@@ -1,8 +1,40 @@
-# Default ignored files
-/shelf/
-/workspace.xml
+# Arquivos e pastas de build
+target/
+build/
+
+# Arquivos de configuração de IDE
 .idea/
-modules.xml
-vcs.xml
-runConfigurations/
 *.iml
+*.ipr
+*.iws
+
+# Arquivos de configuração do Maven
+*.log
+*.tmp
+*.swp
+
+# Arquivos de configuração do Gradle
+.gradle/
+*.gradle
+
+# Arquivos de compilação e logs
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# IntelliJ IDEA
+*.iml
+*.iws
+.idea/
+
+# Arquivos de backup
+*~
+*.bak
+*.tmp
