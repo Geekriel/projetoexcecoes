@@ -48,31 +48,31 @@ build/
 .ideia / dicionários
 
 # Arquivos sensíveis ou de alta rotatividade:
-.idea / ** / fontes de dados /
-.ideia / ** / dataSources.ids
-.ideia / ** / dataSources.xml
-.ideia / ** / dataSources.local.xml
-.ideia / ** / sqlDataSources.xml
-.ideia / ** / dinâmico.xml
-.ideia / ** / uiDesigner.xml
+.idea/ ** / fontes de dados /
+.ideia/ ** / dataSources.ids
+.ideia/ ** / dataSources.xml
+.ideia/ ** / dataSources.local.xml
+.ideia/ ** / sqlDataSources.xml
+.ideia/ ** / dinâmico.xml
+.ideia/ ** / uiDesigner.xml
 
 # Gradle:
-.ideia / ** / gradle.xml
-.idea / ** / bibliotecas
+.ideia/ ** / gradle.xml
+.idea/ ** / bibliotecas
 
 # CMake
 cmake-build-debug /
 
 # Plug-in Mongo Explorer:
-.ideia / ** / mongoSettings.xml
+.ideia/ ** / mongoSettings.xml
 
 # # Formato de projeto baseado em arquivo:
-* .iws
+*.iws
 
 # # Arquivos específicos do plugin:
 
 #IntelliJ​
-/ fora /
+/fora/
 
 # plugin mpeltonen/sbt-idea
 .ideia_módulos /
@@ -92,7 +92,7 @@ crashlytics.propriedades
 crashlytics-build.propriedades
 fabric.propriedades
 
-
+.idea
 .iml
 módulos.xml
 .ideia/misc.xml
@@ -102,10 +102,10 @@ módulos.xml
 .ideia / sonarlint
 
 
-.ideia /
+.ideia/
 
-* .iml
+*.iml
 módulos.xml
 .ideia / misc.xml
-* .ipr
+*.ipr
 

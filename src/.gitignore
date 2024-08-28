@@ -1,8 +1,6 @@
 # Arquivos e pastas de build
 target/
 build/
-idea/
-.idea
 
 # Arquivos de configuração de IDE
 .idea/
